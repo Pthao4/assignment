@@ -1,6 +1,3 @@
-Dưới đây là README phù hợp cho một **website bán son môi**, sử dụng **JSP, Servlet, Bootstrap**, và các công nghệ liên quan.  
-
----  
 
 # **Lipstick Store – Online Cosmetics Shopping**  
 
